@@ -1,0 +1,170 @@
+{
+  "ultima_actualizacion": "2026-11-20",
+  "clubes": [
+    {
+      "id": "club-001",
+      "nombre": "Nombre Aquí",
+      "logo_url": "",
+      "departamento": "Montevideo",
+      "horario_resumen": "Cierra a las: 21hs",
+      "horario_detalle": "Horario: 10:00 - 21:00hs",
+      "telefono": "+598 99 000 000",
+      "variedades": [
+        {
+          "id": "var-001",
+          "nombre": "Nombre Variedad",
+          "tipo": "Híbrida",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 35,
+            "feliz": 95,
+            "creativo": 85
+          }
+        },
+        {
+          "id": "var-002",
+          "nombre": "Nombre Variedad",
+          "tipo": "Sativa",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 20,
+            "feliz": 90,
+            "creativo": 95
+          }
+        }
+      ]
+    },
+    {
+      "id": "club-002",
+      "nombre": "Nombre Aquí",
+      "logo_url": "",
+      "departamento": "Montevideo",
+      "horario_resumen": "Cierra a las: 21hs",
+      "horario_detalle": "Horario: 11:00 - 21:00hs",
+      "telefono": "+598 99 000 000",
+      "variedades": [
+         {
+          "id": "var-001",
+          "nombre": "Nombre Variedad",
+          "tipo": "Híbrida",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 35,
+            "feliz": 95,
+            "creativo": 85
+          }
+        },
+        {
+          "id": "var-002",
+          "nombre": "Nombre Variedad",
+          "tipo": "Sativa",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 20,
+            "feliz": 90,
+            "creativo": 95
+          }
+        }
+      ]
+    },
+    {
+      "id": "club-003",
+      "nombre": "Nombre Aquí",
+      "logo_url": "",
+      "departamento": "Montevideo",
+      "horario_resumen": "Cierra a las: 21hs",
+      "horario_detalle": "Horario: 09:30 - 21:00hs",
+      "telefono": "+598 99 000 000",
+      "variedades": [
+         {
+          "id": "var-001",
+          "nombre": "Nombre Variedad",
+          "tipo": "Híbrida",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 35,
+            "feliz": 95,
+            "creativo": 85
+          }
+        },
+        {
+          "id": "var-002",
+          "nombre": "Nombre Variedad",
+          "tipo": "Sativa",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 20,
+            "feliz": 90,
+            "creativo": 95
+          }
+        }
+      ]
+    },
+    {
+      "id": "club-004",
+      "nombre": "Nombre Aquí",
+      "logo_url": "",
+      "departamento": "Montevideo",
+      "horario_resumen": "Cierra a las: 21hs",
+      "horario_detalle": "Horario: 12:00 - 21:00hs",
+      "telefono": "+598 99 000 000",
+      "variedades": [
+        {
+          "id": "var-001",
+          "nombre": "Nombre Variedad",
+          "tipo": "Híbrida",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 35,
+            "feliz": 95,
+            "creativo": 85
+          }
+        },
+        {
+          "id": "var-002",
+          "nombre": "Nombre Variedad",
+          "tipo": "Sativa",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 20,
+            "feliz": 90,
+            "creativo": 95
+          }
+        }
+      ]
+    },
+    {
+      "id": "club-005",
+      "nombre": "Nombre Aquí",
+      "logo_url": "",
+      "departamento": "Montevideo",
+      "horario_resumen": "Cierra a las: 21hs",
+      "horario_detalle": "Horario: 10:00 - 21:00hs",
+      "telefono": "+598 99 000 000",
+      "variedades": [
+         {
+          "id": "var-001",
+          "nombre": "Nombre Variedad",
+          "tipo": "Híbrida",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 35,
+            "feliz": 95,
+            "creativo": 85
+          }
+        },
+        {
+          "id": "var-002",
+          "nombre": "Nombre Variedad",
+          "tipo": "Sativa",
+          "imagen_url": "",
+          "efectos": {
+            "relajado": 20,
+            "feliz": 90,
+            "creativo": 95
+          }
+        }
+      ]
+    }
+  ]
+}
