@@ -3,8 +3,8 @@
   "clubes": [
     {
       "id": "club-001",
-      "nombre": "Nombre Aquí",
-      "logo_url": "",
+      "nombre": "Club Griffin",
+      "logo_url": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Griffin/perfil.png",
       "departamento": "Montevideo",
       "horario_resumen": "Cierra a las: 21hs",
       "horario_detalle": "Horario: 10:00 - 21:00hs",
@@ -36,8 +36,8 @@
     },
     {
       "id": "club-002",
-      "nombre": "Nombre Aquí",
-      "logo_url": "",
+      "nombre": "Club 73 Micras",
+      "logo_url": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%2073%20Micras/perfil.png",
       "departamento": "Montevideo",
       "horario_resumen": "Cierra a las: 21hs",
       "horario_detalle": "Horario: 11:00 - 21:00hs",
@@ -69,8 +69,8 @@
     },
     {
       "id": "club-003",
-      "nombre": "Nombre Aquí",
-      "logo_url": "",
+      "nombre": "Club Sea of Green",
+      "logo_url": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Sea%20of%20Green/perfil.png",
       "departamento": "Montevideo",
       "horario_resumen": "Cierra a las: 21hs",
       "horario_detalle": "Horario: 09:30 - 21:00hs",
