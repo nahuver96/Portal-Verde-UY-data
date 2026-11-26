@@ -12,7 +12,7 @@
       "variedades": [
         {
           "id": "var-001",
-          "nombre": "Nombre Variedad",
+          "nombre": "Variedad 1",
           "tipo": "Híbrida",
           "imagen_url": "",
           "efectos": {
@@ -23,7 +23,7 @@
         },
         {
           "id": "var-002",
-          "nombre": "Nombre Variedad",
+          "nombre": "Variedad 2",
           "tipo": "Sativa",
           "imagen_url": "",
           "efectos": {
@@ -45,7 +45,7 @@
       "variedades": [
          {
           "id": "var-001",
-          "nombre": "Nombre Variedad",
+          "nombre": "Variedad 1",
           "tipo": "Híbrida",
           "imagen_url": "",
           "efectos": {
@@ -56,7 +56,7 @@
         },
         {
           "id": "var-002",
-          "nombre": "Nombre Variedad",
+          "nombre": "Variedad 2",
           "tipo": "Sativa",
           "imagen_url": "",
           "efectos": {
@@ -78,7 +78,7 @@
       "variedades": [
          {
           "id": "var-001",
-          "nombre": "Nombre Variedad",
+          "nombre": "Variedad 1",
           "tipo": "Híbrida",
           "imagen_url": "",
           "efectos": {
@@ -89,7 +89,7 @@
         },
         {
           "id": "var-002",
-          "nombre": "Nombre Variedad",
+          "nombre": "Variedad 2",
           "tipo": "Sativa",
           "imagen_url": "",
           "efectos": {
@@ -102,8 +102,8 @@
     },
     {
       "id": "club-004",
-      "nombre": "Nombre Aquí",
-      "logo_url": "",
+      "nombre": "Club Smoke Kings",
+      "logo_url": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/c40569ff0a3c82d162ca06130e43c592a82b933e/club_profiles/Club%20Smoke%20Kings/perfil.png",
       "departamento": "Montevideo",
       "horario_resumen": "Cierra a las: 21hs",
       "horario_detalle": "Horario: 12:00 - 21:00hs",
@@ -111,7 +111,7 @@
       "variedades": [
         {
           "id": "var-001",
-          "nombre": "Nombre Variedad",
+          "nombre": "Variedad 1",
           "tipo": "Híbrida",
           "imagen_url": "",
           "efectos": {
@@ -122,7 +122,7 @@
         },
         {
           "id": "var-002",
-          "nombre": "Nombre Variedad",
+          "nombre": "Variedad 2",
           "tipo": "Sativa",
           "imagen_url": "",
           "efectos": {
