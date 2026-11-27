@@ -1,1 +1,509 @@
-
+{
+  "schemaVersion": 1,
+  "pharmacies": [
+    {
+      "name": "Punto Habilitado Artigas 1",
+      "address": "Gral. Manuel Oribe 476, Artigas",
+      "landline": "+598 4772 4675",
+      "mobile": null,
+      "lat": -30.4042659,
+      "lng": -56.4651309
+    },
+    {
+      "name": "Punto Habilitado Artigas 2",
+      "address": "Av. Artigas 698, Artigas",
+      "landline": "+598 4779 2010",
+      "mobile": null,
+      "lat": -30.261426433546525,
+      "lng": -57.604307370234054
+    },
+    {
+      "name": "Punto Habilitado Canelones 1",
+      "address": "Avda. José Gervasio Artigas 402, Canelones",
+      "landline": "+598 2362 2000",
+      "mobile": null,
+      "lat": -34.759838,
+      "lng": -56.2237144
+    },
+    {
+      "name": "Punto Habilitado Canelones 2",
+      "address": "Ruta 6 Km 23.100, Canelones",
+      "landline": null,
+      "mobile": "+598 96 120 941",
+      "lat": -34.7363159,
+      "lng": -56.0939187
+    },
+    {
+      "name": "Punto Habilitado Canelones 3",
+      "address": "Garibaldi 54, Canelones",
+      "landline": "+598 2601 1372",
+      "mobile": "+598 95 064 662",
+      "lat": -34.854589,
+      "lng": -56.042702
+    },
+    {
+      "name": "Punto Habilitado Canelones 4",
+      "address": "Calle de las Esponjas y Avda del Coral. MZ 36 S 13, Canelones",
+      "landline": null,
+      "mobile": "+598 95 177 277",
+      "lat": -34.7729343,
+      "lng": -55.8231561
+    },
+    {
+      "name": "Punto Habilitado Canelones 5",
+      "address": "Avda. Eduardo Marquez Castro y Avda. Giannattasio, Canelones",
+      "landline": "+598 2698 1821",
+      "mobile": "+598 94 200 508",
+      "lat": -34.8216932,
+      "lng": -55.9583259
+    },
+    {
+      "name": "Punto Habilitado Canelones 6",
+      "address": "Ruta 101 Km 25.800, solar 22, Canelones",
+      "landline": null,
+      "mobile": "+598 94 898 393",
+      "lat": -34.7835388,
+      "lng": -56.0130043
+    },
+    {
+      "name": "Punto Habilitado Canelones 7",
+      "address": "Ñandú y Avda. Julieta, Canelones",
+      "landline": "+598 4376 9043",
+      "mobile": null,
+      "lat": -34.7810496,
+      "lng": -55.8387334
+    },
+    {
+      "name": "Punto Habilitado Canelones 8",
+      "address": "Calle 11 entre 26 y Circunvalación s/n, Canelones",
+      "landline": "+598 4372 6757",
+      "mobile": null,
+      "lat": -34.771954,
+      "lng": -55.7649093
+    },
+    {
+      "name": "Punto Habilitado Canelones 9",
+      "address": "Iturria 804, Pando",
+      "landline": "+598 2292 6777",
+      "mobile": "+598 96 252 647",
+      "lat": -34.71733493259215,
+      "lng": -55.96605121434588
+    },
+    {
+      "name": "Punto Habilitado Cerro Largo 1",
+      "address": "Dr. Luis A. de Herrera 650, Cerro Largo",
+      "landline": "+598 4642 2010",
+      "mobile": null,
+      "lat": -32.3696628,
+      "lng": -54.1695117
+    },
+    {
+      "name": "Punto Habilitado Durazno 1",
+      "address": "Pablo Galarza 652, Durazno",
+      "landline": "+598 4362 8000",
+      "mobile": null,
+      "lat": -33.38614469811527,
+      "lng": -56.525138602068786
+    },
+    {
+      "name": "Punto Habilitado Flores 1",
+      "address": "Carlos María Ramirez 402, Flores",
+      "landline": "+598 4364 2212",
+      "mobile": null,
+      "lat": -33.5134128,
+      "lng": -56.8994676
+    },
+    {
+      "name": "Punto Habilitado Lavalleja 1",
+      "address": "Domingo Pérez 501, Lavalleja",
+      "landline": "+598 4442 2500",
+      "mobile": null,
+      "lat": -34.3767832,
+      "lng": -55.2383073
+    },
+    {
+      "name": "Punto Habilitado Maldonado 1",
+      "address": "Calle 1 y 8 S/N, Manzana 29, Maldonado",
+      "landline": null,
+      "mobile": null,
+      "lat": -34.8643836,
+      "lng": -54.9444028
+    },
+    {
+      "name": "Punto Habilitado Maldonado 2",
+      "address": "Avda. Pedragosa Sierra y Bvar. Artigas, Maldonado",
+      "landline": "+598 4249 4108",
+      "mobile": null,
+      "lat": -34.945471,
+      "lng": -54.936359
+    },
+    {
+      "name": "Punto Habilitado Maldonado 3",
+      "address": "Ruta 10 Km. 89.500, Maldonado",
+      "landline": null,
+      "mobile": "+598 98 130 214",
+      "lat": -34.8132013,
+      "lng": -55.3307083
+    },
+    {
+      "name": "Punto Habilitado Maldonado 4",
+      "address": "Margarita Muniz 801, Maldonado",
+      "landline": "+598 4446 2058",
+      "mobile": null,
+      "lat": -34.204061,
+      "lng": -54.764079
+    },
+    {
+      "name": "Punto Habilitado Maldonado 5",
+      "address": "Dr. Roman Bergalli 445, Maldonado",
+      "landline": "+598 4223 9956",
+      "mobile": null,
+      "lat": -34.9048287,
+      "lng": -54.9508239
+    },
+    {
+      "name": "Punto Habilitado Maldonado 6",
+      "address": "Pedro Agorrodoy & Jacinto Alvaritza, Maldonado",
+      "landline": null,
+      "mobile": "+598 98 828 443",
+      "lat": -34.788543,
+      "lng": -54.920834
+    },
+    {
+      "name": "Punto Habilitado Maldonado 7",
+      "address": "Cno. De los Gauchos s/n, Maldonado",
+      "landline": null,
+      "mobile": "+598 98 596 432",
+      "lat": -34.893535,
+      "lng": -54.943842
+    },
+    {
+      "name": "Punto Habilitado Manga 1",
+      "address": "José Belloni 6374, Montevideo",
+      "landline": "+598 2222 4012",
+      "mobile": null,
+      "lat": -34.7819832,
+      "lng": -56.1357222
+    },
+    {
+      "name": "Punto Habilitado Centro 1",
+      "address": "Colonia 1475 Bis, Montevideo",
+      "landline": "+598 2401 6506",
+      "mobile": null,
+      "lat": -34.9041597,
+      "lng": -56.1846375
+    },
+    {
+      "name": "Punto Habilitado Pocitos 1",
+      "address": "Bvar. España 2319, Montevideo",
+      "landline": "+598 2408 0302",
+      "mobile": null,
+      "lat": -34.9100937,
+      "lng": -56.1653085
+    },
+    {
+      "name": "Punto Habilitado Pocitos 2",
+      "address": "Bvar. España 2941, Montevideo",
+      "landline": "+598 2707 8328",
+      "mobile": null,
+      "lat": -34.9148003,
+      "lng": -56.1498562
+    },
+    {
+      "name": "Punto Habilitado Tres Cruces 1",
+      "address": "Gral. Brito del Pino 1314, Montevideo",
+      "landline": "+598 2709 5319",
+      "mobile": "+598 97 971 144",
+      "lat": -34.9047603,
+      "lng": -56.1578554
+    },
+    {
+      "name": "Punto Habilitado Flor de Maroñas 1",
+      "address": "Cno. Maldonado 5516, Montevideo",
+      "landline": "+598 2513 0892",
+      "mobile": null,
+      "lat": -34.8458435,
+      "lng": -56.1255651
+    },
+    {
+      "name": "Punto Habilitado Malvín Norte 1",
+      "address": "Bvar. José Batlle y Ordoñez 1735, Montevideo",
+      "landline": "+598 2622 7170",
+      "mobile": null,
+      "lat": -34.8932835,
+      "lng": -56.1298105
+    },
+    {
+      "name": "Punto Habilitado Jacinto Vera 1",
+      "address": "Garibaldi 2144 BIS, Montevideo",
+      "landline": "+598 2209 8261",
+      "mobile": null,
+      "lat": -34.8792115,
+      "lng": -56.1733827
+    },
+    {
+      "name": "Punto Habilitado Parque Rodó 1",
+      "address": "Patria 649, Montevideo",
+      "landline": "+598 2711 0010",
+      "mobile": null,
+      "lat": -34.9169377,
+      "lng": -56.1650749
+    },
+    {
+      "name": "Punto Habilitado La Teja 1",
+      "address": "Carlos María Ramirez 180, Montevideo",
+      "landline": "+598 2305 4465",
+      "mobile": null,
+      "lat": -34.856721,
+      "lng": -56.2248992
+    },
+    {
+      "name": "Punto Habilitado Capurro 1",
+      "address": "Uruguayana 3382, Montevideo",
+      "landline": null,
+      "mobile": "+598 98 206 010",
+      "lat": -34.8721096,
+      "lng": -56.2066165
+    },
+    {
+      "name": "Punto Habilitado Cerrito de la Victoria 1",
+      "address": "Av. Gral. Flores 5027, Montevideo",
+      "landline": "+598 2215 6161",
+      "mobile": null,
+      "lat": -34.8389857,
+      "lng": -56.1497986
+    },
+    {
+      "name": "Punto Habilitado Malvín 1",
+      "address": "Av. Gral. Rivera 3258, Montevideo",
+      "landline": "+598 2622 3334",
+      "mobile": null,
+      "lat": -34.9028219,
+      "lng": -56.1447784
+    },
+    {
+      "name": "Punto Habilitado Brazo Oriental 1",
+      "address": "Gral. Flores 2547, Montevideo",
+      "landline": "+598 2200 5444",
+      "mobile": null,
+      "lat": -34.8808896,
+      "lng": -56.1819308
+    },
+    {
+      "name": "Punto Habilitado La Comercial 1",
+      "address": "Av. Gral. San Martín 2151, Montevideo",
+      "landline": "+598 2924 3743",
+      "mobile": null,
+      "lat": -34.886722,
+      "lng": -56.188178
+    },
+    {
+      "name": "Punto Habilitado Malvín 2",
+      "address": "Almería 4600, Montevideo",
+      "landline": "+598 2619 3898",
+      "mobile": null,
+      "lat": -34.8944689,
+      "lng": -56.1098469
+    },
+    {
+      "name": "Punto Habilitado Cordón 1",
+      "address": "Av. 18 de Julio 2176, Montevideo",
+      "landline": "+598 2400 7282",
+      "mobile": null,
+      "lat": -34.899065,
+      "lng": -56.1681469
+    },
+    {
+      "name": "Punto Habilitado La Teja 2",
+      "address": "Carlos María Ramírez 900, Montevideo",
+      "landline": "+598 2309 3854",
+      "mobile": null,
+      "lat": -34.8660671,
+      "lng": -56.2363207
+    },
+    {
+      "name": "Punto Habilitado Casavieja 1",
+      "address": "Bvar. José Batlle y Ordóñez 6621, Montevideo",
+      "landline": null,
+      "mobile": "+598 97 985 201",
+      "lat": -34.8253634,
+      "lng": -56.2242328
+    },
+    {
+      "name": "Punto Habilitado Centro 2",
+      "address": "Dr. Javier Barrios Amorín 1100, Montevideo",
+      "landline": "+598 2410 1806",
+      "mobile": null,
+      "lat": -34.9102047,
+      "lng": -56.1839643
+    },
+    {
+      "name": "Punto Habilitado Paso de la Arena 1",
+      "address": "Avda. Luis Batlle Berres 6605, Montevideo",
+      "landline": null,
+      "mobile": "+598 95 907 483",
+      "lat": -34.8362491,
+      "lng": -56.2728322
+    },
+    {
+      "name": "Punto Habilitado Cordón 2",
+      "address": "Daniel Fernandez Crespo 1991, Montevideo",
+      "landline": "+598 2924 2447",
+      "mobile": null,
+      "lat": -34.8959415,
+      "lng": -56.1816766
+    },
+    {
+      "name": "Punto Habilitado Carrasco Norte 1",
+      "address": "Maria Espinola 1614, Montevideo",
+      "landline": "+598 2601 6029",
+      "mobile": null,
+      "lat": -34.8884121,
+      "lng": -56.0842364
+    },
+    {
+      "name": "Punto Habilitado Cerrito de la Victoria 2",
+      "address": "Avda. General Flores 3401, Montevideo",
+      "landline": null,
+      "mobile": "+598 99 580 887",
+      "lat": -34.8655158,
+      "lng": -56.1710402
+    },
+    {
+      "name": "Punto Habilitado Melilla 1",
+      "address": "Avda. Luis Batlle Berres 250, Montevideo",
+      "landline": "+598 2312 0264",
+      "mobile": null,
+      "lat": -34.7901738,
+      "lng": -56.3526853
+    },
+    {
+      "name": "Punto Habilitado Ciudad Vieja 1",
+      "address": "25 de Mayo 315, Montevideo",
+      "landline": "+598 2915 4848",
+      "mobile": null,
+      "lat": -34.9068997,
+      "lng": -56.2092178
+    },
+    {
+      "name": "Punto Habilitado Centro 3",
+      "address": "Av. Gral. Rondeau 1685, Montevideo",
+      "landline": "+598 2900 8282",
+      "mobile": null,
+      "lat": -34.89980185649893,
+      "lng": -56.1921823031202
+    },
+    {
+      "name": "Punto Habilitado Paysandú 1",
+      "address": "18 de Julio 953, Paysandú",
+      "landline": "+598 4722 2846",
+      "mobile": null,
+      "lat": -32.31663,
+      "lng": -58.087226
+    },
+    {
+      "name": "Punto Habilitado Paysandú 2",
+      "address": "Centro Termal Guaviyu, Paysandú",
+      "landline": "+598 4755 2023",
+      "mobile": null,
+      "lat": -31.8416271,
+      "lng": -57.8864707
+    },
+    {
+      "name": "Punto Habilitado Rivera 1",
+      "address": "Luis A. Herrera 1252, Rivera",
+      "landline": null,
+      "mobile": "+598 93 877 873",
+      "lat": -30.9147928,
+      "lng": -55.5394685
+    },
+    {
+      "name": "Punto Habilitado Rocha 1",
+      "address": "Avda. Brasil y Antonio Fossati, Rocha",
+      "landline": "+598 4474 2053",
+      "mobile": null,
+      "lat": -33.6930978,
+      "lng": -53.4514936
+    },
+    {
+      "name": "Punto Habilitado Rocha 2",
+      "address": "Avda. Del Navío y Acuario, Rocha",
+      "landline": "+598 4479 6977",
+      "mobile": null,
+      "lat": -34.661513,
+      "lng": -54.1649103
+    },
+    {
+      "name": "Punto Habilitado Rocha 3",
+      "address": "Pitanga S/N, Manzana 16, Rocha",
+      "landline": "+598 4479 2210",
+      "mobile": null,
+      "lat": -34.5912031,
+      "lng": -54.1275986
+    },
+    {
+      "name": "Punto Habilitado Rocha 4",
+      "address": "18 de Julio 129, Rocha",
+      "landline": null,
+      "mobile": "+598 99 562 759",
+      "lat": -34.4804596,
+      "lng": -54.3346549
+    },
+    {
+      "name": "Punto Habilitado Río Negro 1",
+      "address": "18 de Julio 2135, Río Negro",
+      "landline": "+598 4562 3320",
+      "mobile": null,
+      "lat": -33.1284451,
+      "lng": -58.2975222
+    },
+    {
+      "name": "Punto Habilitado Salto 1",
+      "address": "Paseo del Pasaje – Local 9, Salto",
+      "landline": "+598 4736 9022",
+      "mobile": null,
+      "lat": -31.455367,
+      "lng": -57.9089386
+    },
+    {
+      "name": "Punto Habilitado Salto 2",
+      "address": "Avda. Enrique Amorín 1201, Salto",
+      "landline": null,
+      "mobile": "+598 91 997 750",
+      "lat": -31.3773501,
+      "lng": -57.9578989
+    },
+    {
+      "name": "Punto Habilitado Salto 3",
+      "address": "Gobernador Viana 587, Salto",
+      "landline": null,
+      "mobile": "+598 99 045 416",
+      "lat": -31.3962416,
+      "lng": -57.947092
+    },
+    {
+      "name": "Punto Habilitado San José 1",
+      "address": "San José 649, San José",
+      "landline": "+598 4346 2052",
+      "mobile": null,
+      "lat": -34.525181,
+      "lng": -56.7989304
+    },
+    {
+      "name": "Punto Habilitado San José 2",
+      "address": "Evaristo Ciganda 750, San José",
+      "landline": null,
+      "mobile": "+598 98 038 041",
+      "lat": -34.3402206,
+      "lng": -56.7079153
+    },
+    {
+      "name": "Punto Habilitado Tacuarembó 1",
+      "address": "25 de Mayo 457, Tacuarembó",
+      "landline": "+598 4632 5460",
+      "mobile": null,
+      "lat": -31.7185789,
+      "lng": -55.9877383
+    }
+  ]
+}
