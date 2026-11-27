@@ -4,7 +4,7 @@
     {
       "id": "club-001",
       "name": "Club Griffin",
-      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Griffin/perfil.png",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/main/club_profiles/Club%20Griffin/perfil.png",
       "department": "San José",
       "phone": "+598 99 000 000",
       "openingTime": "10:00",
@@ -37,7 +37,7 @@
     {
       "id": "club-002",
       "name": "Club 73 Micras",
-      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%2073%20Micras/perfil.png",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/main/club_profiles/Club%2073%20Micras/perfil.png",
       "department": "Montevideo",
       "phone": "+598 99 000 000",
       "openingTime": "11:00",
@@ -70,7 +70,7 @@
     {
       "id": "club-003",
       "name": "Club Sea of Green",
-      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Sea%20of%20Green/perfil.png",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/main/club_profiles/Club%20Sea%20of%20Green/perfil.png",
       "department": "Maldonado",
       "phone": "+598 99 000 000",
       "openingTime": "09:30",
@@ -103,7 +103,7 @@
     {
       "id": "club-004",
       "name": "Club Smoke Kings",
-      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/c40569ff0a3c82d162ca06130e43c592a82b933e/club_profiles/Club%20Smoke%20Kings/perfil.png",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/main/club_profiles/Club%20Smoke%20Kings/perfil.png",
       "department": "Montevideo",
       "phone": "+598 99 000 000",
       "openingTime": "12:00",
@@ -135,8 +135,8 @@
     },
     {
       "id": "club-005",
-      "name": "Nombre Aquí",
-      "logoUrl": "",
+      "name": "Club María Bonita",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/main/club_profiles/Club%20Maria%20Bonita/profile.png",
       "department": "Montevideo",
       "phone": "+598 99 000 000",
       "openingTime": "10:00",
@@ -144,8 +144,8 @@
       "varieties": [
         {
           "id": "variety-1",
-          "name": "Nombre Variedad",
-          "imageUrl": "",
+          "name": "Variedad 1",
+          "imageUrl": "https://www.flowerpower.mk/images/strains/mimosa.png",
           "type": "Híbrida",
           "effects": {
             "relajado": 35,
@@ -155,7 +155,7 @@
         },
         {
           "id": "variety-2",
-          "name": "Nombre Variedad",
+          "name": "Variedad 2",
           "imageUrl": "",
           "type": "Sativa",
           "effects": {
