@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "clubs": [
+    {
+      "id": "club-uno",
+      "name": "Nombre del club",
+      "logoUrl": "https://.../logo.png",
+      "department": "Montevideo",
+      "phone": "+598 99 000 000",
+      "openingTime": "10:00",
+      "closingTime": "21:00",
+      "varieties": [
+        { "id": "alfa-1", "name": "Alfa 1", "imageUrl": "https://.../alfa1.jpg",
+          "type": "Híbrida", "effects": { "relajado": 70, "feliz": 40, "creativo": 25 } }
+      ]
+    }
+  ]
+}
