@@ -1,32 +1,32 @@
 {
-  "ultima_actualizacion": "2026-11-20",
-  "clubes": [
+  "schemaVersion": 1,
+  "clubs": [
     {
       "id": "club-001",
-      "nombre": "Club Griffin",
-      "logo_url": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Griffin/perfil.png",
-      "departamento": "Montevideo",
-      "horario_resumen": "Cierra a las: 21hs",
-      "horario_detalle": "Horario: 10:00 - 21:00hs",
-      "telefono": "+598 99 000 000",
-      "variedades": [
+      "name": "Club Griffin",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Griffin/perfil.png",
+      "department": "Montevideo",
+      "phone": "+598 99 000 000",
+      "openingTime": "10:00",
+      "closingTime": "21:00",
+      "varieties": [
         {
-          "id": "var-001",
-          "nombre": "Variedad 1",
-          "tipo": "Híbrida",
-          "imagen_url": "",
-          "efectos": {
+          "id": "variety-1",
+          "name": "Variedad 1",
+          "imageUrl": "",
+          "type": "Híbrida",
+          "effects": {
             "relajado": 35,
             "feliz": 95,
             "creativo": 85
           }
         },
         {
-          "id": "var-002",
-          "nombre": "Variedad 2",
-          "tipo": "Sativa",
-          "imagen_url": "",
-          "efectos": {
+          "id": "variety-2",
+          "name": "Variedad 2",
+          "imageUrl": "",
+          "type": "Sativa",
+          "effects": {
             "relajado": 20,
             "feliz": 90,
             "creativo": 95
@@ -36,30 +36,30 @@
     },
     {
       "id": "club-002",
-      "nombre": "Club 73 Micras",
-      "logo_url": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%2073%20Micras/perfil.png",
-      "departamento": "Montevideo",
-      "horario_resumen": "Cierra a las: 21hs",
-      "horario_detalle": "Horario: 11:00 - 21:00hs",
-      "telefono": "+598 99 000 000",
-      "variedades": [
-         {
-          "id": "var-001",
-          "nombre": "Variedad 1",
-          "tipo": "Híbrida",
-          "imagen_url": "",
-          "efectos": {
+      "name": "Club 73 Micras",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%2073%20Micras/perfil.png",
+      "department": "Montevideo",
+      "phone": "+598 99 000 000",
+      "openingTime": "11:00",
+      "closingTime": "21:00",
+      "varieties": [
+        {
+          "id": "variety-1",
+          "name": "Variedad 1",
+          "imageUrl": "",
+          "type": "Híbrida",
+          "effects": {
             "relajado": 35,
             "feliz": 95,
             "creativo": 85
           }
         },
         {
-          "id": "var-002",
-          "nombre": "Variedad 2",
-          "tipo": "Sativa",
-          "imagen_url": "",
-          "efectos": {
+          "id": "variety-2",
+          "name": "Variedad 2",
+          "imageUrl": "",
+          "type": "Sativa",
+          "effects": {
             "relajado": 20,
             "feliz": 90,
             "creativo": 95
@@ -69,30 +69,30 @@
     },
     {
       "id": "club-003",
-      "nombre": "Club Sea of Green",
-      "logo_url": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Sea%20of%20Green/perfil.png",
-      "departamento": "Montevideo",
-      "horario_resumen": "Cierra a las: 21hs",
-      "horario_detalle": "Horario: 09:30 - 21:00hs",
-      "telefono": "+598 99 000 000",
-      "variedades": [
-         {
-          "id": "var-001",
-          "nombre": "Variedad 1",
-          "tipo": "Híbrida",
-          "imagen_url": "",
-          "efectos": {
+      "name": "Club Sea of Green",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Sea%20of%20Green/perfil.png",
+      "department": "Montevideo",
+      "phone": "+598 99 000 000",
+      "openingTime": "09:30",
+      "closingTime": "21:00",
+      "varieties": [
+        {
+          "id": "variety-1",
+          "name": "Variedad 1",
+          "imageUrl": "",
+          "type": "Híbrida",
+          "effects": {
             "relajado": 35,
             "feliz": 95,
             "creativo": 85
           }
         },
         {
-          "id": "var-002",
-          "nombre": "Variedad 2",
-          "tipo": "Sativa",
-          "imagen_url": "",
-          "efectos": {
+          "id": "variety-2",
+          "name": "Variedad 2",
+          "imageUrl": "",
+          "type": "Sativa",
+          "effects": {
             "relajado": 20,
             "feliz": 90,
             "creativo": 95
@@ -102,30 +102,30 @@
     },
     {
       "id": "club-004",
-      "nombre": "Club Smoke Kings",
-      "logo_url": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/c40569ff0a3c82d162ca06130e43c592a82b933e/club_profiles/Club%20Smoke%20Kings/perfil.png",
-      "departamento": "Montevideo",
-      "horario_resumen": "Cierra a las: 21hs",
-      "horario_detalle": "Horario: 12:00 - 21:00hs",
-      "telefono": "+598 99 000 000",
-      "variedades": [
+      "name": "Club Smoke Kings",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/c40569ff0a3c82d162ca06130e43c592a82b933e/club_profiles/Club%20Smoke%20Kings/perfil.png",
+      "department": "Montevideo",
+      "phone": "+598 99 000 000",
+      "openingTime": "12:00",
+      "closingTime": "21:00",
+      "varieties": [
         {
-          "id": "var-001",
-          "nombre": "Variedad 1",
-          "tipo": "Híbrida",
-          "imagen_url": "",
-          "efectos": {
+          "id": "variety-1",
+          "name": "Variedad 1",
+          "imageUrl": "",
+          "type": "Híbrida",
+          "effects": {
             "relajado": 35,
             "feliz": 95,
             "creativo": 85
           }
         },
         {
-          "id": "var-002",
-          "nombre": "Variedad 2",
-          "tipo": "Sativa",
-          "imagen_url": "",
-          "efectos": {
+          "id": "variety-2",
+          "name": "Variedad 2",
+          "imageUrl": "",
+          "type": "Sativa",
+          "effects": {
             "relajado": 20,
             "feliz": 90,
             "creativo": 95
@@ -135,30 +135,30 @@
     },
     {
       "id": "club-005",
-      "nombre": "Nombre Aquí",
-      "logo_url": "",
-      "departamento": "Montevideo",
-      "horario_resumen": "Cierra a las: 21hs",
-      "horario_detalle": "Horario: 10:00 - 21:00hs",
-      "telefono": "+598 99 000 000",
-      "variedades": [
-         {
-          "id": "var-001",
-          "nombre": "Nombre Variedad",
-          "tipo": "Híbrida",
-          "imagen_url": "",
-          "efectos": {
+      "name": "Nombre Aquí",
+      "logoUrl": "",
+      "department": "Montevideo",
+      "phone": "+598 99 000 000",
+      "openingTime": "10:00",
+      "closingTime": "21:00",
+      "varieties": [
+        {
+          "id": "variety-1",
+          "name": "Nombre Variedad",
+          "imageUrl": "",
+          "type": "Híbrida",
+          "effects": {
             "relajado": 35,
             "feliz": 95,
             "creativo": 85
           }
         },
         {
-          "id": "var-002",
-          "nombre": "Nombre Variedad",
-          "tipo": "Sativa",
-          "imagen_url": "",
-          "efectos": {
+          "id": "variety-2",
+          "name": "Nombre Variedad",
+          "imageUrl": "",
+          "type": "Sativa",
+          "effects": {
             "relajado": 20,
             "feliz": 90,
             "creativo": 95
