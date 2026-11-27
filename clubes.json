@@ -13,12 +13,12 @@
         {
           "id": "variety-1",
           "name": "Variedad 1",
-          "imageUrl": "",
+          "imageUrl": "https://www.flowerpower.mk/images/strains/mimosa.png",
           "type": "Híbrida",
           "effects": {
-            "relajado": 35,
+            "relajado": 80,
             "feliz": 95,
-            "creativo": 85
+            "creativo": 50
           }
         },
         {
