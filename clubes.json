@@ -5,7 +5,7 @@
       "id": "club-001",
       "name": "Club Griffin",
       "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Griffin/perfil.png",
-      "department": "Montevideo",
+      "department": "San José",
       "phone": "+598 99 000 000",
       "openingTime": "10:00",
       "closingTime": "21:00",
@@ -14,11 +14,11 @@
           "id": "variety-1",
           "name": "Variedad 1",
           "imageUrl": "https://www.flowerpower.mk/images/strains/mimosa.png",
-          "type": "Híbrida",
+          "type": "Sativa",
           "effects": {
-            "relajado": 80,
-            "feliz": 95,
-            "creativo": 50
+            "relajado": 30,
+            "feliz": 80,
+            "creativo": 60
           }
         },
         {
@@ -46,8 +46,8 @@
         {
           "id": "variety-1",
           "name": "Variedad 1",
-          "imageUrl": "",
-          "type": "Híbrida",
+          "imageUrl": "https://www.flowerpower.mk/images/strains/mimosa.png",
+          "type": "Sativa",
           "effects": {
             "relajado": 35,
             "feliz": 95,
@@ -71,7 +71,7 @@
       "id": "club-003",
       "name": "Club Sea of Green",
       "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Sea%20of%20Green/perfil.png",
-      "department": "Montevideo",
+      "department": "Maldonado",
       "phone": "+598 99 000 000",
       "openingTime": "09:30",
       "closingTime": "21:00",
@@ -79,8 +79,8 @@
         {
           "id": "variety-1",
           "name": "Variedad 1",
-          "imageUrl": "",
-          "type": "Híbrida",
+          "imageUrl": "https://www.flowerpower.mk/images/strains/mimosa.png",
+          "type": "Sativa",
           "effects": {
             "relajado": 35,
             "feliz": 95,
@@ -112,8 +112,8 @@
         {
           "id": "variety-1",
           "name": "Variedad 1",
-          "imageUrl": "",
-          "type": "Híbrida",
+          "imageUrl": "https://www.flowerpower.mk/images/strains/mimosa.png",
+          "type": "Sativa",
           "effects": {
             "relajado": 35,
             "feliz": 95,
