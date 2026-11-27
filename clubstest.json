@@ -3,14 +3,14 @@
   "clubs": [
     {
       "id": "club-uno",
-      "name": "Nombre del club",
-      "logoUrl": "https://.../logo.png",
+      "name": "Club Griffin",
+      "logoUrl": "https://raw.githubusercontent.com/nahuver96/Portal-Verde-UY-data/0e22dffc2ef12f43672346bb69334a127bf0f40a/club_profiles/Club%20Griffin/perfil.png",
       "department": "Montevideo",
       "phone": "+598 99 000 000",
       "openingTime": "10:00",
       "closingTime": "21:00",
       "varieties": [
-        { "id": "alfa-1", "name": "Alfa 1", "imageUrl": "https://.../alfa1.jpg",
+        { "id": "variety-1", "name": "Mimosa", "imageUrl": "https://www.flowerpower.mk/images/strains/mimosa.png",
           "type": "Híbrida", "effects": { "relajado": 70, "feliz": 40, "creativo": 25 } }
       ]
     }
